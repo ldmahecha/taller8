@@ -11,6 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f1059077-2675-4828-b999-0e33b072f729" name="Changes" comment="taller 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/registro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/registro.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +163,7 @@
       <workItem from="1685482022168" duration="789000" />
       <workItem from="1686053962887" duration="67000" />
       <workItem from="1686079206063" duration="2009000" />
+      <workItem from="1686081800936" duration="582000" />
     </task>
     <task id="LOCAL-00001" summary="taller 7">
       <created>1685481082235</created>
@@ -183,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686079916838</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="taller 8">
+      <created>1686081570858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686081570858</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

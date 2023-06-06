@@ -7,7 +7,7 @@
 <head>
 
     <meta charset ="utf-8">
-  <meta name=oscar" content="Nonbre oscar">
+  <meta name=Daniela" content="Nombre daniela">
   <meta name=description" content="Esta debe ser la información que oparece en el párrafo que acompaña os resultados
       de una búsqueda en Internet.">
   <meta name="keynords" content="registro de usuario, formulario de registro, crear cuento, registro en Líneo">
@@ -25,7 +25,7 @@
 <body class="justify-content-center">
 <main class="form-signin w-100 m-auto">
 <form action="" method="post">
-  <img class="nb-4" src="./img/image%20.jpg" alt="" width-188>
+  <img class="nb-4" src="./img/imagen.png" alt="" width-188>
   <h4 class="text-secondary">hot</h4>
   <h1 class="h5 mb-3 fu-normal">Ingreso</h1>
 

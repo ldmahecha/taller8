@@ -23,7 +23,7 @@
       <h2 class="mb-4">Registro de Usuario</h2>
       <form>
         <div class="form-group">
-          <img class="nb-4" src="../img/image%20.jpg" alt="MY APP" width-188>
+          <img class="nb-4" src="../img/images.png.jpg" alt="MY APP" width-188>
           <label for="names"></label>
           <input type="text" class="form-control" id="names" placeholder="Ingrese su nombre" name="names" required autofocus
                  pattern="[A-Za-z ]{2,40}">
